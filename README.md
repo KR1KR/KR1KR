@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning ... R and Python
 
-👯 I’m looking to collaborate on ... projects
+👯 I’m looking to collaborate on ... Projects
 
 🤔 I’m looking for help with ... Python
 
